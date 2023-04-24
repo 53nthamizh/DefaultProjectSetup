@@ -12,7 +12,7 @@ You can install this package via UPM by following these steps:
 2. Open the Package Manager window.
 3. Click on the "+" button located on the top-left corner of the window.
 4. Select "Add package from git URL" from the dropdown menu.
-5. Paste the following URL into the text box: https://github.com/53nthamizh/DefaultProjectSetup.git#upm
+5. Paste the following URL into the text box: https://github.com/53nthamizh/DefaultProjectSetup.git
 6. Click on the "Add" button.
 
 ### Option 2: Manual installation
