@@ -1,6 +1,6 @@
 {
     "name": "com.atsaetechnologies.defaulttools",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "displayName": "Default Tools",
     "description": "With just one click, you can create top-level folders such as 'Art', 'Audio', 'Code', 'Documentation', 'Plugins', 'Prefabs', and 'Scenes', creates subdirectories. It also creates and updates Readme.md file with one click."
 }
