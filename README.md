@@ -1,4 +1,5 @@
 # Default Tools
+<i>Version:</i> 1.0.1
 
 This Unity editor tool automatically creates a default folder structure for your Unity project. With just one click, you can create top-level folders such as "Art", "Audio", "Code", "Documentation", "Plugins", "Prefabs", and "Scenes". It also creates subdirectories for each of these top-level folders. This is a great way to organize your Unity project and keep it clean.
 
