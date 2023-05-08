@@ -32,7 +32,7 @@ To use this tool, simply open the Unity editor and select "Tools > Create > Defa
 
 ## License
 
-This tool is not currently licensed. Feel free to use it however you wish.
+This Unity package is licensed under the GNU GPL license, a copy of which can be found in the LICENSE file.
 
 ## Contact
 
