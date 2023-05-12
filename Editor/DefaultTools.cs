@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 // The namespaces used in this file.
 using System; // For using DateTime, etc.
 using System.Collections.Generic; // For using List<>
@@ -388,3 +389,4 @@ namespace ATSAETechnologies
         }
     }
 }
+#endif
